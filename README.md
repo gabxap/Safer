@@ -3,7 +3,7 @@ Una app de seguridad ciudadana para el reporte de incidentes hecha en Flutter co
 
 A mobile city security app for reporting incidents made with Flutter and the Google Maps package. It's core function is to publish an update markers (incidents) in realtime using Firestore. 
 
-<img src="screenshots/2.png" width="200"> <img src="screenshots/3.png" width="200"> <img src="screenshots/4.png" width="200">  <img src="screenshots/5.png" width="200"> <img src="screenshots/6.png" width="200"> <img src="screenshots/7.png" width="200">
+<img src="screenshots/2.png" width="180"> <img src="screenshots/3.png" width="180"> <img src="screenshots/4.png" width="180">  <img src="screenshots/5.png" width="180"> <img src="screenshots/6.png" width="180"> <img src="screenshots/7.png" width="180">
 
 
 ## Getting Started
@@ -11,6 +11,7 @@ Ciertas configuraciones previas son necesarias para poder correr la app.
 
 ### Añadiendo Firebase
 Este repo no incluye ninguno de los archivos de configuración de Firebase. Es necesario que habilites el apartado de Authentication en  Firebase para Email. Además debes crear 3 colecciones en tu Cloud Firestore (comments,locations,users)
+
 <img src="screenshots/correo.png" width="500">
 </br>
 </br>
