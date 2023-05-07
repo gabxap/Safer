@@ -1,4 +1,4 @@
-# 💚 Safer 💚
+# Safer 💚
 📍 Una app de seguridad ciudadana para el reporte de incidentes en Lima, Perú hecha en Flutter con la ayuda del package de Google Maps. Su principal funcionalidad es la publicación y actualización de marcadores (incidentes) en tiempo real usando Firestore.
 
 📍 A mobile city security app for reporting incidents in Lima, Peru made with Flutter and the Google Maps package. It's core function is to publish an update markers (incidents) in realtime using Firestore. 
